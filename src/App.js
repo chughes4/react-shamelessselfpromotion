@@ -74,7 +74,7 @@ function App() {
         <h3>link2</h3>
       </span>
     </div>
-  );
+  ); //note git
 }
 
 export default App;
