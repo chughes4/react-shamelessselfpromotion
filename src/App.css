@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+  font-family: "Times New Roman";
+}
+
+.App-header {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  background-color: "#ffdd99";
+  margin: 5rem;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.button {
+  background-color: #ffdd99;
+  color: black;
+  font: inherit;
+  padding: 2px;
+  cursor: pointer;
+  margin-top: 15px;
+}
+
+.button:hover {
+  background-color: black;
+  color: #ffdd99;
+}
+
+.image {
+  width: 50%;
+  height: auto;
+}
